@@ -1,0 +1,4 @@
+baseURL = 'http://raghunandan2002.github.io/'
+languageCode = 'en-us'
+title = 'Raghunandan New Hugo Site'
+theme='hello-friend'
